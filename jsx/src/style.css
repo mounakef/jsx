@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+.title {
+    color:red;
+    font-family: 'Dancing Script', cursive;
+     font-size: 50px;
+}
+body {
+    background: linear-gradient(90deg, #615f5b 0%, #d12913 100%) !important;
+}
